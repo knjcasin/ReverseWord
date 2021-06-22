@@ -8,7 +8,7 @@ package reverseword;
 import java.util.Scanner;
 
 /**
- *
+ * I'm adding changes to the code and will commit and push it.
  * @author Kevin Casin
  */
 public class ReverseWord {
